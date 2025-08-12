@@ -2,7 +2,7 @@
 Welcome to University Search — your passport to finding the perfect university anywhere in the world! 🌍✨
 Just type a country, click Search, and boom 💥 — you’ll have a list of universities with their location and official website links.
 
-Deployed Link -
+Deployed Link - [Click here](https://unifinder-indol.vercel.app/)
 
 🚀 Features
 
@@ -17,8 +17,9 @@ Deployed Link -
     ✅ Responsive design — works on desktop 🖥, tablet 📱, and everything in between
 
 📸 Demo Preview
-![alt text](image.png)
+![Error while loading image](image.png)
 
 📜 License
+
 This project is open-source and free to use.
 Made with ❤️ and ☕ for curious learners and global explorers.
