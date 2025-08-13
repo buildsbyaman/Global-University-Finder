@@ -51,7 +51,6 @@ const apiFetchData = async (searchBoxValue) => {
 };
 
 btn.addEventListener("click", () => {
-  window.open("https://cors-anywhere.herokuapp.com/corsdemo", "_blank");
   let searchBoxValue = searchBox.value.trim();
   searchBox.value = "";
   ul.innerText = "";
@@ -67,3 +66,5 @@ searchBox.addEventListener("keydown", (event) => {
     btn.click();
   }
 });
+
+window.open("https://cors-anywhere.herokuapp.com/corsdemo", "_blank");
