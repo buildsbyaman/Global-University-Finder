@@ -31,7 +31,7 @@ const apiFetchData = async (searchBoxValue) => {
       let p2 = document.createElement("p");
       p2.innerText = "College Domains - ";
 
-      let domains = uniLi["web_pages"];
+      let domains = uniLi["domains"];
       for (let domain of domains) {
         let linkp = document.createElement("p");
         linkp.innerHTML = `<a href="${domain}" target=_blank>${domain}</a>`;

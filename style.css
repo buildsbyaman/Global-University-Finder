@@ -16,7 +16,36 @@ a {
 li {
   font-size: 20px;
   font-weight: 400;
-  padding: 15px;
+  padding: 15px 20px;
+  border-bottom: 1px solid #ddd;
+  background-color: #fafafa;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+
+li p {
+  margin: 5px 0 0 0;
+  font-size: 16px;
+  color: #555;
+  padding-left: 0;
+}
+
+li p a {
+  color: #0d6efd;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+li p a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  width: 100%;
+  max-width: 600px;
 }
 
 main {
@@ -60,6 +89,18 @@ main {
   .form-control {
     width: 100%;
   }
+  li {
+    padding: 12px 15px;
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  li p {
+    font-size: 14px;
+    padding-left: 8px;
+  }
+  li p a {
+    font-size: 18px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -68,11 +109,25 @@ main {
   li {
     font-size: 16px;
   }
+  h6 {
+    font-size: 12px;
+  }
   h1 {
     font-size: 22px;
-    text-align: center;
   }
   main {
-    padding-left: 0;
+    padding-left: 10px;
+  }
+  li {
+    padding: 10px 12px;
+    font-size: 16px;
+    margin-bottom: 14px;
+  }
+  li p {
+    font-size: 13px;
+    padding-left: 10px;
+  }
+  li p a {
+    font-size: 13px;
   }
 }
