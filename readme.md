@@ -2,7 +2,7 @@
 Welcome to University Search — your passport to finding the perfect university anywhere in the world! 🌍✨
 Just type a country, click Search, and boom 💥 — you’ll have a list of universities with their location and official website links.
 
-Deployed Link - [Click here](https://unifinder-indol.vercel.app/)
+Deployed Link - [Click here](https://buildsbyaman-universityfinder.vercel.app/)
 
 🚀 Features
 
