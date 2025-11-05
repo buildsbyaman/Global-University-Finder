@@ -1,5 +1,5 @@
-🎓 University Search App 🔍
-Welcome to University Search — your passport to finding the perfect university anywhere in the world! 🌍✨
+# University Search App 
+Welcome to University Search — your passport to finding the perfect university anywhere in the world!.
 Just type a country, click Search, and boom 💥 — you’ll have a list of universities with their location and official website links.
 
 Deployed Link - [Click here](https://buildsbyaman-universityfinder.vercel.app/)
@@ -18,8 +18,3 @@ Deployed Link - [Click here](https://buildsbyaman-universityfinder.vercel.app/)
 
 📸 Demo Preview
 ![Error while loading image](image.png)
-
-📜 License
-
-This project is open-source and free to use.
-Made with ❤️ and ☕ for curious learners and global explorers.
